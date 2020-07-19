@@ -20,10 +20,10 @@ Use the following command to install python libraries
 ```
 pip install library-name
 ```
-## Built With
+### Built With
 
 * [Python] - Language
 
-## Accuracy
+### Accuracy
 
 * [Python] - Language
