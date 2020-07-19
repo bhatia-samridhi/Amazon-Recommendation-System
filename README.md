@@ -1,5 +1,5 @@
 # Amazon-Recommendation-System
-The objective of this task is to recommend the products based on their previous purchase.
+The objective of this task is to recommend the products based on the similar reviews.The model recommends two more products based on the similar reviews i.e, If a person has purchased coffee of A type, two more types of coffees are recommended to him/her.
 
 ### Prerequisites
 
@@ -8,7 +8,6 @@ Some python libraries
 ```
 numpy
 pandas
-matplotlib
 sklearn
 re 
 nltk
@@ -24,6 +23,7 @@ pip install library-name
 
 * [Python] - Language
 
-### Accuracy
+### Database
+The database initially had 8 columns i.e, id,username,productname,profilename,rating,summary,text,time when reviewed. Data is preprocssed first and all the irrelevant details such as username,time,profilename are removed, only the productname and summary(review) is kept in database 
 
-* [Python] - Language
+
