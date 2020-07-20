@@ -25,6 +25,7 @@ pip install library-name
 
 ### Dataset
 The dataset initially had 8 columns i.e, id,username,productname,profilename,rating,summary,text,time when reviewed. Data is preprocssed first and all the irrelevant details such as username,time,profilename are removed, only the productname and summary(review) is kept in dataset.
+
 Link to dataset is :  https://drive.google.com/file/d/11bRaDVvK0BbEHbo5zocM0Z3eBIMZhHtz/view?usp=drivesdk
 
 
